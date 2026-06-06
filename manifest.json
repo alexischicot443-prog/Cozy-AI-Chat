@@ -1,0 +1,22 @@
+{
+  "name": "Cozy AI Chat",
+  "short_name": "Cozy AI",
+  "description": "Votre compagnon IA chaleureux et bienveillant.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#faf6f0",
+  "theme_color": "#faf6f0",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/188/188333.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/188/188333.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
